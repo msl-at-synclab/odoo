@@ -1,0 +1,2 @@
+# odoo
+Appunti su Odoo
