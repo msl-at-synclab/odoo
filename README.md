@@ -81,12 +81,12 @@ In prima istanza bisogna immaginare la barra principale di Odoo, dove sono
 elencati (alcuni) dei moduli installati. Tramite XML è possibile richiedere
 per il proprio modulo la presenza di un elemento sulla barra.
 
-(immagine)
+![](https://raw.githubusercontent.com/msl-at-synclab/odoo/master/img/001.png)
 
 Una volta cliccato su quell'elemento si apre l'interfaccia del proprio modulo,
 a sua volta composta da una barra laterale ed una sezione principale.
 
-(immagine)
+![](https://raw.githubusercontent.com/msl-at-synclab/odoo/master/img/002.png)
 
 Nella barra laterale vengono riportati i modelli definiti dal modulo. Nella
 sezione principale è possibile visualizzare, cercare, creare, modificare e
